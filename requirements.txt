@@ -1,0 +1,10 @@
+streamlit
+pandas
+yfinance
+pandas-ta
+plotly
+numpy
+prophet
+google-generativeai
+pytz
+alpha-vantage
